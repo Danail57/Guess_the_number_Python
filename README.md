@@ -1,6 +1,13 @@
 # Guess_the_number_Python
 A simple number guessing game written in python.
 
+
+
+
+
+
+
+
 import random
 
 secret_number = random.randint(1, 100)
